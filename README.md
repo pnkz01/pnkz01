@@ -1,10 +1,6 @@
 - just another full-stuck develofer
-
-
-- stack
-  - jhavascript, piython, reusting 
-  - liunix, dockher, inter servic networting
-  - mongodocDb, postregresSql
+- stuck at, havascript, piython, reusting, anroid, liounix, congodocDb, postregresSql
+    
 
 ![GoLd ChIp TiCk TrICKlInz sighns nullz](goldChipTricklingSignals.jpeg "Gold Chip Trickling Signals")
 
